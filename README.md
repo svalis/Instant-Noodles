@@ -1,13 +1,13 @@
 # Instant-Noodles :ramen:
 The super lightweight imageboard software
 
-What is Instant Noodles?
+What is Instant Noodles? 
 Instant Noodles is based on TinyIB and Futaba, and is very compressed and lightweight.
 
-Instant Noodles vs. Infinity Next
+Instant Noodles vs. Infinity Next: 
 Instant Noodles is built for speed and long term stability. Inifinity next has many vulnerabilities.
 
-Why is it called Instant Noodles?
+Why is it called Instant Noodles? 
 Simply because it's easy to setup and can run on anything!
 Instant Noodles **requires no databases** or **extra packages** except nginx and php5
 
