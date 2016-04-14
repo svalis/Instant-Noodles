@@ -18,5 +18,6 @@ Some files need to be changed before you can get Instant Noodles working.
 > 1. The file boardname.txt should be edited, Use control-w in nano to skip to the CHANGEME tags and replace them.
 > 2. Some files in the **nome/** folder need to be edited to suit your needs.
 > 3. You'll also need to zip the contents within **Tinyib/** and place the zip within the **nome/** folder. Refer to step 2 for more details.
+
 This repo includes engine files, you may have to place files in specific places for things to work or change necessary paths.
 ![alt tag](http://i.imgur.com/dZFZnOZ.png)
