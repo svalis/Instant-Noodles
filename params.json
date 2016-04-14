@@ -1,0 +1,6 @@
+{
+  "name": "Instant-noodles",
+  "tagline": "The super lightweight imageboard software.",
+  "body": "# Instant-Noodles :ramen:\r\nThe super lightweight imageboard software\r\n\r\nWhat is Instant Noodles? \r\nInstant Noodles is based on TinyIB and Futaba, and is very compressed and lightweight.\r\n\r\nInstant Noodles vs. Infinity Next: \r\nInstant Noodles is built for speed and long term stability. Inifinity next has many vulnerabilities.\r\n\r\nWhy is it called Instant Noodles? \r\nSimply because it's easy to setup and can run on anything!\r\nInstant Noodles **requires no databases** or **extra packages** except nginx and php5\r\n\r\n*Instant noodles can be installed on apache but we recommend you install it on nginx*\r\n\r\nIn order to install please review the image below.\r\n\r\nThis repo includes engine files, you may have to place files in specific places for things to work or change necessary paths.\r\n![](http://i.imgur.com/dZFZnOZ.png)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
