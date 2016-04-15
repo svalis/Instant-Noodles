@@ -19,7 +19,9 @@ f.value = f.value.replace(/[^a-z\u00D1\u00F10-9]*/ig,'');
 </br>
 <div class="container">
 
-<h1>Default~</h1>
+<img src="homepage.gif">
+
+<h1>Instant Noodles~</h1>
 <h3>Host your own imageboard forum!</h3>
 
 <br>
